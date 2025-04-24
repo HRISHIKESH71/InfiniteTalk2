@@ -57,41 +57,41 @@ TaskHub is a role-based Flask web app that allows **users** to sign up. Learners
 
 <h3 align="center">🖼️ /login</h3>
 <p align="center">
-  <img src="https://github.com/HRISHIKESH71/InfiniteTalk2/blob/main/Images/Screenshot%20(628).png" alt="a" width="700"/>
+  <img src="https://github.com/HRISHIKESH71/InfiniteTalk2/blob/main/Images/Screenshot%20(628).png" alt="login" width="700"/>
 </p>
-<h3 align="center">🖼️ Register</h3>
+<h3 align="center">🖼️ /register</h3>
 <p align="center">
-  <img src="https://github.com/HRISHIKESH71/InfiniteTalk2/blob/main/Images/Screenshot%20(629).png" alt="a" width="700"/>
-</p>
-
-<h3 align="center">🖼️ register successful</h3>
-<p align="center">
-  <img src="https://github.com/HRISHIKESH71/InfiniteTalk2/blob/main/Images/Screenshot%20(630).png" alt="a" width="700"/>
+  <img src="https://github.com/HRISHIKESH71/InfiniteTalk2/blob/main/Images/Screenshot%20(629).png" alt="register" width="700"/>
 </p>
 
-<h3 align="center">🖼️ Autosave Entry</h3>
+<h3 align="center">🖼️ /confirm-ok</h3>
 <p align="center">
-  <img src="https://github.com/HRISHIKESH71/InfiniteTalk2/blob/main/Images/Screenshot%20(631).png" alt="a" width="700"/>
+  <img src="https://github.com/HRISHIKESH71/InfiniteTalk2/blob/main/Images/Screenshot%20(630).png" alt="register successful" width="700"/>
 </p>
 
-<h3 align="center">🖼️ login with credits</h3>
+<h3 align="center">🖼️ /confirm </h3>
 <p align="center">
-  <img src="https://github.com/HRISHIKESH71/InfiniteTalk2/blob/main/Images/Screenshot%20(625).png" alt="a" width="700"/>
+  <img src="https://github.com/HRISHIKESH71/InfiniteTalk2/blob/main/Images/Screenshot%20(631).png" alt="Autosave Entry" width="700"/>
 </p>
 
-<h3 align="center">🖼️ Able to post, View History</h3>
+<h3 align="center">🖼️ /homepage </h3>
 <p align="center">
-  <img src="https://github.com/HRISHIKESH71/InfiniteTalk2/blob/main/Images/Screenshot%20(627).png" alt="a" width="700"/>
+  <img src="https://github.com/HRISHIKESH71/InfiniteTalk2/blob/main/Images/Screenshot%20(625).png" alt="login with credits" width="700"/>
 </p>
 
-<h3 align="center">📚 Stored History</h3>
+<h3 align="center">🖼️ /homepage   Able to post, View History</h3>
 <p align="center">
-  <img src="https://github.com/HRISHIKESH71/InfiniteTalk2/blob/main/Images/Screenshot%20(626).png" alt="a" width="700"/>
+  <img src="https://github.com/HRISHIKESH71/InfiniteTalk2/blob/main/Images/Screenshot%20(627).png" alt="Able to post, View History" width="700"/>
 </p>
 
-<h3 align="center">📚 Top post on server</h3>
+<h3 align="center">📚 /homepage Stored History</h3>
 <p align="center">
-  <img src="https://github.com/HRISHIKESH71/InfiniteTalk2/blob/main/Images/Screenshot%20(625).png" alt="a" width="700"/>
+  <img src="https://github.com/HRISHIKESH71/InfiniteTalk2/blob/main/Images/Screenshot%20(626).png" alt="Stored History" width="700"/>
+</p>
+
+<h3 align="center">📚 /homepage Top post on server</h3>
+<p align="center">
+  <img src="https://github.com/HRISHIKESH71/InfiniteTalk2/blob/main/Images/Screenshot%20(625).png" alt="Top post on server" width="700"/>
 </p>
 
 ---
